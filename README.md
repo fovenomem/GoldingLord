@@ -1,2 +1,0 @@
-# GoldingLord
-Бот для DISCROD
